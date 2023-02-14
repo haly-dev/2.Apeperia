@@ -1,4 +1,4 @@
-# projeto-apeperia
+# Projeto-Apeperia
 
 # DesenvolveGB-Semana3 | Programa Desenvolve GB - Alura 
 
