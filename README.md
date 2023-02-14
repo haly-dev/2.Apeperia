@@ -10,7 +10,7 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 - Estudar o conceito de mobile-first projetando uma page projetada para dispositivos moveis e fazendo a responsividade para as resoluções maiores de tablet e desktop, transformando um projeto do figma em pagina html css com esse conceito.
 
-- link do figma page: https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=15%3A198&t=bajJa2V7Hk9Bap3K-0
+- link do projeto no figma: https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=15%3A198&t=bajJa2V7Hk9Bap3K-0
 
 ## Meu Processo
 
