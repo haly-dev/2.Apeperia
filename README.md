@@ -20,6 +20,9 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 - Video da pagina:
 
+- https://user-images.githubusercontent.com/107888695/218822538-eb1f9d4c-eebe-432a-bbae-5581f4636053.mp4
+
+
 
 ### Construído com
 
